@@ -1,0 +1,22 @@
+{
+  "data_dir": "/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/data/fashion-mnist",
+  "output_dir": "/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/final_model",
+  "hidden_dims": [
+    256,
+    128
+  ],
+  "activation": "tanh",
+  "epochs": 20,
+  "batch_size": 256,
+  "learning_rate": 0.1,
+  "lr_scheduler": "step",
+  "lr_gamma": 0.5,
+  "lr_step_size": 5,
+  "weight_decay": 0.0001,
+  "val_ratio": 0.1,
+  "seed": 42,
+  "download": false,
+  "input_dim": 784,
+  "num_classes": 10,
+  "verbose": true
+}

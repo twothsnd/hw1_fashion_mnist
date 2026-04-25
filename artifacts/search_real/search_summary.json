@@ -1,0 +1,82 @@
+{
+  "mode": "random",
+  "best_result": {
+    "trial": 1,
+    "learning_rate": 0.1,
+    "hidden_dims": "256,128",
+    "weight_decay": 0.0001,
+    "activation": "tanh",
+    "best_epoch": 8,
+    "best_val_accuracy": 0.8535,
+    "test_accuracy": 0.8463,
+    "output_dir": "/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_001"
+  },
+  "results": [
+    {
+      "trial": 1,
+      "learning_rate": 0.1,
+      "hidden_dims": "256,128",
+      "weight_decay": 0.0001,
+      "activation": "tanh",
+      "best_epoch": 8,
+      "best_val_accuracy": 0.8535,
+      "test_accuracy": 0.8463,
+      "output_dir": "/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_001"
+    },
+    {
+      "trial": 2,
+      "learning_rate": 0.05,
+      "hidden_dims": "128",
+      "weight_decay": 0.0001,
+      "activation": "relu",
+      "best_epoch": 6,
+      "best_val_accuracy": 0.8358333333333333,
+      "test_accuracy": 0.8288,
+      "output_dir": "/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_002"
+    },
+    {
+      "trial": 3,
+      "learning_rate": 0.1,
+      "hidden_dims": "256",
+      "weight_decay": 0.0001,
+      "activation": "tanh",
+      "best_epoch": 8,
+      "best_val_accuracy": 0.8486666666666667,
+      "test_accuracy": 0.8405,
+      "output_dir": "/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_003"
+    },
+    {
+      "trial": 4,
+      "learning_rate": 0.02,
+      "hidden_dims": "128",
+      "weight_decay": 0.0005,
+      "activation": "tanh",
+      "best_epoch": 8,
+      "best_val_accuracy": 0.816,
+      "test_accuracy": 0.8107,
+      "output_dir": "/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_004"
+    },
+    {
+      "trial": 5,
+      "learning_rate": 0.02,
+      "hidden_dims": "256,128",
+      "weight_decay": 0.0001,
+      "activation": "relu",
+      "best_epoch": 8,
+      "best_val_accuracy": 0.8281666666666667,
+      "test_accuracy": 0.8253,
+      "output_dir": "/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_005"
+    },
+    {
+      "trial": 6,
+      "learning_rate": 0.05,
+      "hidden_dims": "256",
+      "weight_decay": 0.0005,
+      "activation": "tanh",
+      "best_epoch": 8,
+      "best_val_accuracy": 0.8341666666666666,
+      "test_accuracy": 0.8313,
+      "output_dir": "/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_006"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "best_epoch": 8,
+  "best_val_accuracy": 0.8281666666666667,
+  "test_accuracy": 0.8253,
+  "output_dir": "/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_005",
+  "model_path": "/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_005/best_model.npz"
+}

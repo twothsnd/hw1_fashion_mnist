@@ -1,0 +1,7 @@
+trial,learning_rate,hidden_dims,weight_decay,activation,best_epoch,best_val_accuracy,test_accuracy,output_dir
+1,0.1,"256,128",0.0001,tanh,8,0.8535,0.8463,/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_001
+2,0.05,128,0.0001,relu,6,0.8358333333333333,0.8288,/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_002
+3,0.1,256,0.0001,tanh,8,0.8486666666666667,0.8405,/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_003
+4,0.02,128,0.0005,tanh,8,0.816,0.8107,/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_004
+5,0.02,"256,128",0.0001,relu,8,0.8281666666666667,0.8253,/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_005
+6,0.05,256,0.0005,tanh,8,0.8341666666666666,0.8313,/data/huangyanjie/NCAA/hw/hw1_fashion_mnist/artifacts/search_real/trial_006
